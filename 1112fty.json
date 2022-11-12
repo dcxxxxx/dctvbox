@@ -3,7 +3,7 @@
 {
 "spider":"https://www.daichen.fun:5206/DCplayer/tvboxhh/1112fty/xo.jar",
 "wallpaper":"http://饭太硬.ml/深色壁纸/api.php",
-"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93d3cuZGFpY2hlbi5mdW46NTIwNi9EQ3BsYXllci90dmJveGhoLzExMTJmdHkvbGl2ZS50eHQ="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2RjeHh4eHgvZGN0dmJveC9tYWluL2xpdmUudHh0"]}]}],
 
 "sites":[
 {"key":"douban","name":"🅱豆瓣荐片┃t4首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
